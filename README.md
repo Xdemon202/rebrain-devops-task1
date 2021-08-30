@@ -1,1 +1,1 @@
-* This repo contain default config nginx
+* this repo for default config nginx
